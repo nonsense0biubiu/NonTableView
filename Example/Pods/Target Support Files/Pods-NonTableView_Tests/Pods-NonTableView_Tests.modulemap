@@ -1,0 +1,6 @@
+framework module Pods_NonTableView_Tests {
+  umbrella header "Pods-NonTableView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

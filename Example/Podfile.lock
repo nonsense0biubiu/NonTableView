@@ -1,0 +1,16 @@
+PODS:
+  - NonTableView (0.1.0)
+
+DEPENDENCIES:
+  - NonTableView (from `../`)
+
+EXTERNAL SOURCES:
+  NonTableView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  NonTableView: 6ac2c03ae2db3b5847e7e19b7a245aaa834213c3
+
+PODFILE CHECKSUM: 3e432d4aef8b173c55e6da09ce2b84e13b29ecd0
+
+COCOAPODS: 1.4.0

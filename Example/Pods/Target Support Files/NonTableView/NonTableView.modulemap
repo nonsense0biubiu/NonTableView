@@ -1,0 +1,6 @@
+framework module NonTableView {
+  umbrella header "NonTableView-umbrella.h"
+
+  export *
+  module * { export * }
+}

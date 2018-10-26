@@ -1,0 +1,22 @@
+{
+  "name": "NonTableView",
+  "version": "0.1.0",
+  "summary": "A short description of NonTableView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yaoyaoyaoyuyuyuyingyingying@gmail.com/NonTableView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yaoyaoyaoyuyuyuyingyingying@gmail.com": "404864195@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/yaoyaoyaoyuyuyuyingyingying@gmail.com/NonTableView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NonTableView/Classes/**/*"
+}
