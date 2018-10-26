@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NonTableView_Example' do
+  pod 'NonTableView', :path => '../'
+
+  target 'NonTableView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
