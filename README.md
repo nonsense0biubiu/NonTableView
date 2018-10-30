@@ -27,3 +27,9 @@ Nonsense, yaoyaoyaoyuyuyuyingyingying@gmail.com
 ## License
 
 NonTableView is available under the MIT license. See the LICENSE file for more info.
+
+## How to Use
+
+* The **Example** has basic usage.
+* NonTableView is a simple Data Driven Tableview.
+* NonTableView is designed to help developers create fragmented application interfaces that increase development and maintenance efficiency
