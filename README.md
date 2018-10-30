@@ -22,7 +22,7 @@ pod 'NonTableView'
 
 ## Author
 
-yaoyaoyaoyuyuyuyingyingying@gmail.com, 404864195@qq.com
+Nonsense, yaoyaoyaoyuyuyuyingyingying@gmail.com
 
 ## License
 

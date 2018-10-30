@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'NonTableView'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of NonTableView.'
+  s.version          = '1.0.1'
+  s.summary          = 'A data-driven TableView'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,22 +21,23 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/yaoyaoyaoyuyuyuyingyingying@gmail.com/NonTableView'
+  s.homepage         = 'https://github.com/nonsense0biubiu/NonTableView'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'yaoyaoyaoyuyuyuyingyingying@gmail.com' => '404864195@qq.com' }
-  s.source           = { :git => 'https://github.com/yaoyaoyaoyuyuyuyingyingying@gmail.com/NonTableView.git', :tag => s.version.to_s }
+  s.author           = { 'nonsense0biubiu' => 'yaoyaoyaoyuyuyuyingyingying@gmail.com' }
+  s.source           = { :git => 'https://github.com/nonsense0biubiu/NonTableView.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'NonTableView/Classes/**/*'
-  
+  s.requires_arc = true
+  s.dependency 'Masonry', '~> 1.1.0'
+  # s.ios.framework  = 'UIKit'
   # s.resource_bundles = {
   #   'NonTableView' => ['NonTableView/Assets/*.png']
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
 end

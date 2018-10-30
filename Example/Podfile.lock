@@ -1,5 +1,7 @@
 PODS:
-  - NonTableView (0.1.0)
+  - Masonry (1.1.0)
+  - NonTableView (1.0.1):
+    - Masonry (~> 1.1.0)
 
 DEPENDENCIES:
   - NonTableView (from `../`)
@@ -9,7 +11,8 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  NonTableView: 6ac2c03ae2db3b5847e7e19b7a245aaa834213c3
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  NonTableView: 0b1f12711f967b3e7f3ee282ff104365e2d2902f
 
 PODFILE CHECKSUM: 3e432d4aef8b173c55e6da09ce2b84e13b29ecd0
 
